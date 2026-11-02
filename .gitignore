@@ -1,0 +1,21 @@
+# Dataset - tidak di-push ke GitHub
+*.xlsx
+*.xls
+*.csv
+
+# Output files
+hasil_segmentasi_produk.csv
+
+# Gambar hasil generate (opsional, hapus baris ini jika ingin di-push)
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
